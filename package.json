@@ -1,0 +1,14 @@
+{
+  "name": "vue-leafui",
+  "version": "1.0.0",
+  "description": "vue 服务端渲染，前后端分离实践",
+  "main": "index.js",
+  "repository": "https://github.com/hanhan3682523/vue-leafui.git",
+  "author": "hanhan3682523 <250975141@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7",
+    "vue": "^2.5.21",
+    "vue-server-renderer": "^2.5.21"
+  }
+}
